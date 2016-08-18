@@ -1,0 +1,17 @@
+{
+    "name": "montaga-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Alejandra Rodriguez"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/montaga-bower.git"
+    },
+    "description": "Montaga font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
